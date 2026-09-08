@@ -1,6 +1,24 @@
----
-owner-repo: wfxr/csview
-desc:   📠 Pretty and fast csv viewer for cli with cjk/emoji support. 
----
-
 # csview
+
+📠 Pretty and fast csv viewer for cli with cjk/emoji support.
+
+- **Upstream**: <https://github.com/wfxr/csview>
+- **Homepage**: <https://github.com/wfxr/csview>
+- **Latest release**: `v1.3.4` (2024-12-28)
+- **Last commit**: 2026-04-28
+- **License**: Apache-2.0
+- **Stars**: 702 · **Forks**: 22 · **Open issues**: 25 · **Contributors**: 7
+
+## Installation
+
+```sh
+x install csview
+```
+
+See <https://x-cmd.com/install/csview> for details.
+
+## Data
+
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+
+_Last regenerated: 2026-09-08T10:46:25Z._
