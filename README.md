@@ -1,24 +1,75 @@
 # csview
 
+[中文版本](./README.cn.md)
+
 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 
-- **Upstream**: <https://github.com/wfxr/csview>
-- **Homepage**: <https://github.com/wfxr/csview>
-- **Latest release**: `v1.3.4` (2024-12-28)
-- **Last commit**: 2026-04-28
-- **License**: Apache-2.0
-- **Stars**: 702 · **Forks**: 22 · **Open issues**: 25 · **Contributors**: 7
+![csview](https://repo.x-cmd.io/csview.svg)
 
-## Installation
+## Install
 
 ```sh
 x install csview
 ```
 
-See <https://x-cmd.com/install/csview> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/wfxr/csview>
+- **Homepage**: <https://github.com/wfxr/csview>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:51:55Z._
+- **Latest**: `v1.3.4` (2024-12-28)
+- **Last commit**: 2026-04-28
+- **Assets in release**: 19
+- **Published**: 2024-12-28T13:31:01Z
+
+## Popularity
+
+- **Stars**: 702 · **Forks**: 22 · **Open issues**: 25 · **Contributors**: 7
+
+## Totals (cumulative)
+
+- **Releases**: 27 · **Merged PRs**: 138 · **Open PRs**: 6 · **Closed issues**: 17 · **Open issues**: 8 · **Commits**: 296
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 6 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 14 | 6 | 0 | 1 | 17 |
+
+## Code size
+
+Total: **1,065** lines of code across **16** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 734 | 1 | 114 | 8 |
+| Toml | 126 | 31 | 7 | 5 |
+| Bash | 87 | 0 | 3 | 1 |
+| PowerShell | 48 | 0 | 5 | 1 |
+| Elvish | 45 | 0 | 2 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+
+## Improve this data
+
+Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `csview` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/csview.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:51:11Z._
