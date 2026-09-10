@@ -12,6 +12,28 @@
 x install csview
 ```
 
+## Code insight
+
+Total: **1,065** lines of code across **16** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 734 | 1 | 114 | 8 |
+| Toml | 126 | 31 | 7 | 5 |
+| Bash | 87 | 0 | 3 | 1 |
+| PowerShell | 48 | 0 | 5 | 1 |
+| Elvish | 45 | 0 | 2 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+
 ## Source
 
 - **Upstream**: <https://github.com/wfxr/csview>
@@ -23,6 +45,25 @@ x install csview
 - **Latest**: `v1.3.4` (2024-12-28)
 - **Last commit**: 2026-04-28
 - **Assets in release**: 19
+
+## Popularity
+
+- **Stars**: 702 · **Forks**: 22 · **Open issues**: 25 · **Contributors**: 7
+
+## Totals (cumulative)
+
+- **Releases**: 27 · **Merged PRs**: 138 · **Open PRs**: 6 · **Closed issues**: 17 · **Open issues**: 8 · **Commits**: 296
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 6 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 6 | 6 | 0 | 0 | 7 |
+| 360d | 2025-09-15 | 0 | 14 | 6 | 0 | 1 | 17 |
+| last720d | 2024-09-20 | 1 | 25 | 6 | 0 | 1 | 31 |
 
 ## Release assets
 
@@ -48,43 +89,15 @@ x install csview
 | [csview_1.3.4_armhf.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_armhf.deb) | 344.4 KiB | `runtime/deb/armhf` |
 | [csview_1.3.4_i686.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_i686.deb) | 354.8 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 702 · **Forks**: 22 · **Open issues**: 25 · **Contributors**: 7
+Reported by **54** distros on [repology.org](https://repology.org/project/csview). **30** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 27 · **Merged PRs**: 138 · **Open PRs**: 6 · **Closed issues**: 17 · **Open issues**: 8 · **Commits**: 296
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 6 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 14 | 6 | 0 | 1 | 17 |
-
-## Code size
-
-Total: **1,065** lines of code across **16** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 734 | 1 | 114 | 8 |
-| Toml | 126 | 31 | 7 | 5 |
-| Bash | 87 | 0 | 3 | 1 |
-| PowerShell | 48 | 0 | 5 | 1 |
-| Elvish | 45 | 0 | 2 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **2.6 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 1/8 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.3.4` | ✅ latest |
+| Nix unstable | `1.3.4` | ✅ latest |
+| Alpine edge | `1.3.4` | ✅ latest |
 
 ## Improve this data
 
@@ -95,4 +108,4 @@ Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:53Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:58:00Z._
