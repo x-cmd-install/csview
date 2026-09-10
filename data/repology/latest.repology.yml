@@ -1,0 +1,673 @@
+- repo: nix_stable_24_05
+  srcname: csview
+  visiblename: csview
+  version: 1.3.2
+  origversion: null
+  status: outdated
+  summary: A high performance csv viewer with cjk/emoji support
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.2.2
+  origversion: 1.2.2-r0
+  status: outdated
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.2.2
+  origversion: 1.2.2-r0
+  status: outdated
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.2.2
+  origversion: 1.2.2-r0
+  status: outdated
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_17
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.2.2
+  origversion: 1.2.2-r0
+  status: outdated
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.2.2
+  origversion: 1.2.2-r2
+  status: outdated
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.2.2
+  origversion: 1.2.2-r2
+  status: outdated
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.2.2
+  origversion: 1.2.2-r2
+  status: outdated
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.2.2
+  origversion: 1.2.2-r2
+  status: outdated
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.2.2
+  origversion: 1.2.2-r4
+  status: outdated
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.2.2
+  origversion: 1.2.2-r4
+  status: outdated
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.2.2
+  origversion: 1.2.2-r4
+  status: outdated
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.2.2
+  origversion: 1.2.2-r4
+  status: outdated
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.2
+  origversion: 1.3.2-r0
+  status: outdated
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.3.2
+  origversion: 1.3.2-r0
+  status: outdated
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.3.2
+  origversion: 1.3.2-r0
+  status: outdated
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.3.2
+  origversion: 1.3.2-r0
+  status: outdated
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.3
+  origversion: 1.3.3-r0
+  status: outdated
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.3.3
+  origversion: 1.3.3-r0
+  status: outdated
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.3.3
+  origversion: 1.3.3-r0
+  status: outdated
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.3.3
+  origversion: 1.3.3-r0
+  status: outdated
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Pretty csv viewer for cli with cjk/emoji support
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: csview
+  binname: csview-bash-completion
+  visiblename: csview-bash-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Bash completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: csview
+  binname: csview-fish-completion
+  visiblename: csview-fish-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Fish completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: alpine_edge
+  subrepo: community
+  srcname: csview
+  binname: csview-zsh-completion
+  visiblename: csview-zsh-completion
+  version: 1.3.4
+  origversion: 1.3.4-r0
+  status: newest
+  summary: Zsh completions for csview
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: aur
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: 1.3.4-1
+  status: newest
+  summary: Pretty and fast csv viewer for cli with cjk/emoji support
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT OR Apache-2.0
+- repo: aur
+  srcname: csview-bin
+  binname: csview-bin
+  visiblename: csview-bin
+  version: 1.3.4
+  origversion: 1.3.4-1
+  status: newest
+  summary: High performance CSV viewer with CJK/emoji support
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - Apache
+    - MIT
+- repo: aur
+  srcname: csview-git
+  binname: csview-git
+  visiblename: csview-git
+  version: 1.3.4.r7.g8ac4de0
+  origversion: 1.3.4.r7.g8ac4de0-1
+  status: rolling
+  summary: Pretty and fast csv viewer for cli with cjk/emoji support
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT OR Apache-2.0
+- repo: freebsd
+  srcname: textproc/csview
+  binname: csview
+  visiblename: textproc/csview
+  version: 1.3.4
+  origversion: 1.3.4_9
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - ruben@verweg.com
+  categories:
+    - textproc
+- repo: homebrew
+  srcname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer for cli
+- repo: homebrew
+  srcname: csview
+  visiblename: csview
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: High performance csv viewer for cli
+- repo: macports
+  srcname: textproc/csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: Pretty and fast csv viewer for cli with cjk/emoji support.
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+    - Apache-2
+  categories:
+    - textproc
+- repo: nix_stable_24_11
+  srcname: csview
+  visiblename: csview
+  version: 1.3.3
+  origversion: null
+  status: outdated
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - mrjarviscraft+nix@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - mrjarviscraft+nix@gmail.com
+  licenses:
+    - MIT
+    - Apache-2.0
+- repo: pkgsrc_2026_1
+  srcname: textproc/csview
+  binname: csview
+  visiblename: textproc/csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_2026_2
+  srcname: textproc/csview
+  binname: csview
+  visiblename: textproc/csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: pkgsrc_current
+  srcname: textproc/csview
+  binname: csview
+  visiblename: textproc/csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: High performance csv viewer with cjk/emoji support
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - textproc
+- repo: scoop
+  subrepo: main
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT|Apache-2.0
+- repo: termux
+  srcname: csview
+  binname: csview
+  visiblename: csview
+  version: 1.3.4
+  origversion: null
+  status: newest
+  summary: Pretty-printing CSV/TSV/xSV on terminal
+  maintainers:
+    - flosnvjx@github
