@@ -23,7 +23,30 @@ x install csview
 - **Latest**: `v1.3.4` (2024-12-28)
 - **Last commit**: 2026-04-28
 - **Assets in release**: 19
-- **Published**: 2024-12-28T13:31:01Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [csview-musl_1.3.4_amd64.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_amd64.deb) | 371.2 KiB | `runtime/deb/amd64` |
+| [csview-musl_1.3.4_arm64.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_arm64.deb) | 363.2 KiB | `runtime/deb/arm64` |
+| [csview-musl_1.3.4_armhf.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_armhf.deb) | 371.3 KiB | `runtime/deb/armhf` |
+| [csview-musl_1.3.4_i686.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_i686.deb) | 384.7 KiB | `other` |
+| [csview-v1.3.4-aarch64-apple-darwin.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-aarch64-apple-darwin.tar.gz) | 383.3 KiB | `native/darwin/arm64` |
+| [csview-v1.3.4-aarch64-unknown-linux-gnu.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-aarch64-unknown-linux-gnu.tar.gz) | 446.7 KiB | `native/linux/arm64/glibc` |
+| [csview-v1.3.4-aarch64-unknown-linux-musl.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-aarch64-unknown-linux-musl.tar.gz) | 495.6 KiB | `native/linux/arm64/musl` |
+| [csview-v1.3.4-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-arm-unknown-linux-gnueabihf.tar.gz) | 476.2 KiB | `native/linux/arm/glibc` |
+| [csview-v1.3.4-arm-unknown-linux-musleabihf.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-arm-unknown-linux-musleabihf.tar.gz) | 508.9 KiB | `native/linux/arm/musl` |
+| [csview-v1.3.4-i686-pc-windows-msvc.zip](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-i686-pc-windows-msvc.zip) | 322.2 KiB | `native/win/x64` |
+| [csview-v1.3.4-i686-unknown-linux-gnu.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-i686-unknown-linux-gnu.tar.gz) | 443.2 KiB | `native/linux/x86/glibc` |
+| [csview-v1.3.4-i686-unknown-linux-musl.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-i686-unknown-linux-musl.tar.gz) | 481.4 KiB | `native/linux/x86/musl` |
+| [csview-v1.3.4-x86_64-pc-windows-msvc.zip](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-pc-windows-msvc.zip) | 342.9 KiB | `native/win/x64` |
+| [csview-v1.3.4-x86_64-unknown-linux-gnu.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-unknown-linux-gnu.tar.gz) | 423.2 KiB | `native/linux/x64/glibc` |
+| [csview-v1.3.4-x86_64-unknown-linux-musl.tar.gz](https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-unknown-linux-musl.tar.gz) | 471.7 KiB | `native/linux/x64/musl` |
+| [csview_1.3.4_amd64.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_amd64.deb) | 332.6 KiB | `runtime/deb/amd64` |
+| [csview_1.3.4_arm64.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_arm64.deb) | 324.4 KiB | `runtime/deb/arm64` |
+| [csview_1.3.4_armhf.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_armhf.deb) | 344.4 KiB | `runtime/deb/armhf` |
+| [csview_1.3.4_i686.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_i686.deb) | 354.8 KiB | `other` |
 
 ## Popularity
 
@@ -68,8 +91,8 @@ Lowest-scoring checks:
 Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `csview` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/csview.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/csview.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:51:11Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:25:53Z._
