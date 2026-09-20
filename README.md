@@ -4,7 +4,7 @@
 
 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 
-![csview](https://repo.x-cmd.io/csview.svg)
+[![x-cmd/install — csview Code Quality Monitoring Repo Card](https://repo.x-cmd.io/csview.svg)](https://x-cmd.com/install/csview)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 4 | 1 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 4 | 4 | 1 | 0 | 3 |
-| 90d | 2026-06-20 | 0 | 6 | 4 | 1 | 0 | 6 |
-| last180d | 2026-03-22 | 0 | 10 | 4 | 1 | 0 | 11 |
-| 360d | 2025-09-23 | 0 | 20 | 4 | 1 | 1 | 23 |
-| last720d | 2024-09-28 | 1 | 30 | 4 | 1 | 1 | 37 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 1 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 3 | 4 | 1 | 0 | 2 |
+| 90d | 2026-06-22 | 0 | 6 | 4 | 1 | 0 | 4 |
+| last180d | 2026-03-24 | 0 | 10 | 4 | 1 | 0 | 10 |
+| 360d | 2025-09-25 | 0 | 20 | 4 | 1 | 1 | 23 |
+| last720d | 2024-09-30 | 1 | 30 | 4 | 1 | 1 | 37 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:52:42Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:03:58Z._
