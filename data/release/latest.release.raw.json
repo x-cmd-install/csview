@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 380148,
       "digest": null,
-      "download_count": 83,
+      "download_count": 84,
       "created_at": "2024-12-28T13:32:34Z",
       "updated_at": "2024-12-28T13:32:34Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 457451,
       "digest": null,
-      "download_count": 165,
+      "download_count": 166,
       "created_at": "2024-12-28T13:32:23Z",
       "updated_at": "2024-12-28T13:32:23Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-aarch64-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 329904,
       "digest": null,
-      "download_count": 116,
+      "download_count": 117,
       "created_at": "2024-12-28T13:33:50Z",
       "updated_at": "2024-12-28T13:33:50Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-i686-pc-windows-msvc.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 351139,
       "digest": null,
-      "download_count": 770,
+      "download_count": 772,
       "created_at": "2024-12-28T13:32:37Z",
       "updated_at": "2024-12-28T13:32:37Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 433391,
       "digest": null,
-      "download_count": 1482,
+      "download_count": 1483,
       "created_at": "2024-12-28T13:32:29Z",
       "updated_at": "2024-12-28T13:32:30Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 340608,
       "digest": null,
-      "download_count": 1550,
+      "download_count": 1557,
       "created_at": "2024-12-28T13:32:29Z",
       "updated_at": "2024-12-28T13:32:30Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_amd64.deb"
