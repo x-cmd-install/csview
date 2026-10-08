@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 380148,
       "digest": null,
-      "download_count": 86,
+      "download_count": 87,
       "created_at": "2024-12-28T13:32:34Z",
       "updated_at": "2024-12-28T13:32:34Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_amd64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 380260,
       "digest": null,
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2024-12-28T13:32:35Z",
       "updated_at": "2024-12-28T13:32:35Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_armhf.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 393976,
       "digest": null,
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2024-12-28T13:32:11Z",
       "updated_at": "2024-12-28T13:32:12Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-musl_1.3.4_i686.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 392540,
       "digest": null,
-      "download_count": 569,
+      "download_count": 574,
       "created_at": "2024-12-28T13:31:41Z",
       "updated_at": "2024-12-28T13:31:41Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 457451,
       "digest": null,
-      "download_count": 191,
+      "download_count": 200,
       "created_at": "2024-12-28T13:32:23Z",
       "updated_at": "2024-12-28T13:32:23Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-aarch64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 487621,
       "digest": null,
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2024-12-28T13:32:37Z",
       "updated_at": "2024-12-28T13:32:37Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-arm-unknown-linux-gnueabihf.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 521128,
       "digest": null,
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2024-12-28T13:32:35Z",
       "updated_at": "2024-12-28T13:32:35Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-arm-unknown-linux-musleabihf.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 453807,
       "digest": null,
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2024-12-28T13:32:17Z",
       "updated_at": "2024-12-28T13:32:17Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-i686-unknown-linux-gnu.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 492989,
       "digest": null,
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2024-12-28T13:32:11Z",
       "updated_at": "2024-12-28T13:32:11Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-i686-unknown-linux-musl.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 351139,
       "digest": null,
-      "download_count": 803,
+      "download_count": 805,
       "created_at": "2024-12-28T13:32:37Z",
       "updated_at": "2024-12-28T13:32:37Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-pc-windows-msvc.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 433391,
       "digest": null,
-      "download_count": 1552,
+      "download_count": 1572,
       "created_at": "2024-12-28T13:32:29Z",
       "updated_at": "2024-12-28T13:32:30Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-unknown-linux-gnu.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 482975,
       "digest": null,
-      "download_count": 198,
+      "download_count": 202,
       "created_at": "2024-12-28T13:32:34Z",
       "updated_at": "2024-12-28T13:32:34Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview-v1.3.4-x86_64-unknown-linux-musl.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 340608,
       "digest": null,
-      "download_count": 1636,
+      "download_count": 1648,
       "created_at": "2024-12-28T13:32:29Z",
       "updated_at": "2024-12-28T13:32:30Z",
       "browser_download_url": "https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_amd64.deb"
