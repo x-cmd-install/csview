@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 698 · **Forks**: 26 · **Open issues**: 26 · **Contributors**: 7
+- **Stars**: 698 · **Forks**: 23 · **Open issues**: 26 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 5 | 1 | 0 | 0 |
-| 90d | 2026-07-22 | 0 | 3 | 5 | 1 | 0 | 3 |
-| last180d | 2026-04-23 | 0 | 7 | 5 | 1 | 0 | 7 |
-| 360d | 2025-10-25 | 0 | 20 | 5 | 1 | 1 | 23 |
-| last720d | 2024-10-30 | 1 | 30 | 5 | 1 | 1 | 37 |
+| 30d | 2026-09-21 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 5 | 1 | 0 | 0 |
+| 90d | 2026-07-23 | 0 | 3 | 5 | 1 | 0 | 3 |
+| last180d | 2026-04-24 | 0 | 7 | 5 | 1 | 0 | 7 |
+| 360d | 2025-10-26 | 0 | 20 | 5 | 1 | 1 | 23 |
+| last720d | 2024-10-31 | 1 | 30 | 5 | 1 | 1 | 37 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:58:41Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:52:47Z._
