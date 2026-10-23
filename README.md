@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 5 | 1 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 3 | 5 | 1 | 0 | 3 |
-| last180d | 2026-04-25 | 0 | 7 | 5 | 1 | 0 | 7 |
-| 360d | 2025-10-27 | 0 | 20 | 5 | 1 | 1 | 23 |
-| last720d | 2024-11-01 | 1 | 30 | 5 | 1 | 1 | 37 |
+| 30d | 2026-09-23 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 5 | 1 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 3 | 5 | 1 | 0 | 3 |
+| last180d | 2026-04-26 | 0 | 7 | 5 | 1 | 0 | 7 |
+| 360d | 2025-10-28 | 0 | 20 | 5 | 1 | 1 | 23 |
+| last720d | 2024-11-02 | 1 | 30 | 5 | 1 | 1 | 37 |
 
 ## Release assets
 
@@ -89,6 +89,16 @@ Lowest-scoring checks:
 | [csview_1.3.4_armhf.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_armhf.deb) | 344.4 KiB | `runtime/deb/armhf` |
 | [csview_1.3.4_i686.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_i686.deb) | 354.8 KiB | `other` |
 
+## Distribution status
+
+Reported by **54** distros on [repology.org](https://repology.org/project/csview). **30** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.3.4` | ✅ latest |
+| Nix unstable | `1.3.4` | ✅ latest |
+| Alpine edge | `1.3.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `csview` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +108,4 @@ Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:50:43Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:48:26Z._
