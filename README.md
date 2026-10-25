@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 5 | 1 | 0 | 0 |
-| 90d | 2026-07-26 | 0 | 3 | 5 | 1 | 0 | 3 |
-| last180d | 2026-04-27 | 0 | 7 | 5 | 1 | 0 | 7 |
-| 360d | 2025-10-29 | 0 | 20 | 5 | 1 | 1 | 23 |
-| last720d | 2024-11-03 | 1 | 30 | 5 | 1 | 1 | 37 |
+| 30d | 2026-09-25 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-08-26 | 0 | 0 | 5 | 1 | 0 | 0 |
+| 90d | 2026-07-27 | 0 | 3 | 5 | 1 | 0 | 2 |
+| last180d | 2026-04-28 | 0 | 6 | 5 | 1 | 0 | 6 |
+| 360d | 2025-10-30 | 0 | 20 | 5 | 1 | 1 | 23 |
+| last720d | 2024-11-04 | 1 | 30 | 5 | 1 | 1 | 37 |
 
 ## Release assets
 
@@ -108,4 +108,4 @@ Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:37:54Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:47:29Z._
