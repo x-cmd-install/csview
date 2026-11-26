@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 701 · **Forks**: 24 · **Open issues**: 26 · **Contributors**: 7
+- **Stars**: 701 · **Forks**: 23 · **Open issues**: 26 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 6 | 1 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 6 | 6 | 1 | 0 | 6 |
-| 360d | 2025-11-30 | 0 | 20 | 6 | 1 | 0 | 23 |
-| last720d | 2024-12-05 | 1 | 27 | 6 | 1 | 1 | 37 |
+| 30d | 2026-10-27 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 6 | 1 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 6 | 6 | 1 | 0 | 0 |
+| 360d | 2025-12-01 | 0 | 20 | 6 | 1 | 0 | 0 |
+| last720d | 2024-12-06 | 1 | 27 | 6 | 1 | 1 | 37 |
 
 ## Release assets
 
@@ -89,6 +89,16 @@ Lowest-scoring checks:
 | [csview_1.3.4_armhf.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_armhf.deb) | 344.4 KiB | `runtime/deb/armhf` |
 | [csview_1.3.4_i686.deb](https://github.com/wfxr/csview/releases/download/v1.3.4/csview_1.3.4_i686.deb) | 354.8 KiB | `other` |
 
+## Distribution status
+
+Reported by **54** distros on [repology.org](https://repology.org/project/csview). **30** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.3.4` | ✅ latest |
+| Alpine edge | `1.3.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `csview` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +108,4 @@ Install metadata for csview lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:37:18Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:35:00Z._
